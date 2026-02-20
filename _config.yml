@@ -1,0 +1,40 @@
+# サイト基本設定
+title: "クレジットカード比較ナビ"
+description: "クレジットカードの比較・おすすめ情報を徹底解説。年会費・ポイント還元率・審査情報など初心者にもわかりやすく紹介します。"
+url: "https://YOUR_USERNAME.github.io"  # GitHubユーザー名に変更してください
+baseurl: ""
+
+# 著者情報
+author:
+  name: "カード比較ナビ編集部"
+
+# テーマ設定（Minima：シンプルで読みやすいテーマ）
+theme: minima
+
+# プラグイン
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO設定
+lang: ja
+timezone: Asia/Tokyo
+
+# パーマリンク設定（URLの形式）
+permalink: /:year/:month/:day/:title/
+
+# 除外ファイル
+exclude:
+  - scripts/
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .github/
+
+# Google Analytics（取得後に設定）
+# google_analytics: UA-XXXXXXXXX-X
+
+# ページネーション（1ページあたりの記事数）
+paginate: 10
+paginate_path: "/page:num/"
