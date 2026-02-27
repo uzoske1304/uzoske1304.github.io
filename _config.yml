@@ -1,12 +1,11 @@
 # サイト基本設定
 title: "クレジットカード比較ナビ"
 description: "クレジットカードの比較・おすすめ情報を徹底解説。年会費・ポイント還元率・審査情報など初心者にもわかりやすく紹介します。"
-url: "https://YOUR_USERNAME.github.io"  # GitHubユーザー名に変更してください
+url: "https://uzoske1304.github.io"
 baseurl: ""
 
 # 著者情報
-author:
-  name: "カード比較ナビ編集部"
+author: "カード比較ナビ編集部"
 
 # テーマ設定（Minima：シンプルで読みやすいテーマ）
 theme: minima
@@ -34,7 +33,3 @@ exclude:
 
 # Google Analytics（取得後に設定）
 # google_analytics: UA-XXXXXXXXX-X
-
-# ページネーション（1ページあたりの記事数）
-paginate: 10
-paginate_path: "/page:num/"
