@@ -31,5 +31,11 @@ exclude:
   - Gemfile.lock
   - .github/
 
+# 全記事を表示（日付制限を解除）
+future: true
+
+# 1ページの表示件数
+paginate: 10
+
 # Google Analytics（取得後に設定）
 # google_analytics: UA-XXXXXXXXX-X
