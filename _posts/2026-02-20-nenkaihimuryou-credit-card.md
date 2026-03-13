@@ -155,3 +155,13 @@ PayPayユーザーに最適な1枚です。
 年会費無料のクレジットカードは、選び方次第で年間数万円分のポイントや特典を受け取ることができます。自分のライフスタイルに合ったカードを選ぶことが最も重要です。
 
 迷ったら、まずは**楽天カード**か**三井住友カード（NL）**から始めるのがおすすめです。どちらも審査が通りやすく、日常使いで高い還元率を実現できます。
+
+---
+
+## 楽天カードへの申し込みはこちら（PR）
+
+楽天カードは**年会費永年無料**で、新規入会＆3回利用で**5,000ポイント**がもらえます。ポイント還元率も高く、楽天市場でのお買い物がさらにお得になります。
+
+<a href="https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hsb/51da7d3b.1233d296.51da7d3c.f93f577d/?me_id=2101008&me_adv_id=167401&t=pict" border="0" style="margin:2px" alt="楽天カード" title="楽天カード"></a>
+
+[楽天カードの詳細・お申し込みはこちら](https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D)

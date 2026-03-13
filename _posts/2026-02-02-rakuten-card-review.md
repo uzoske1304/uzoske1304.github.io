@@ -87,3 +87,13 @@ description: "楽天カードのメリット・デメリット・評判を徹底
 まだ楽天カードを持っていない方は、新規入会キャンペーンで5,000ポイント以上もらえる今がチャンスです。
 
 <!-- AFFILIATE_LINK_RAKUTEN_CARD -->
+
+---
+
+## 楽天カードへの申し込みはこちら（PR）
+
+楽天カードは**年会費永年無料**で、新規入会＆3回利用で**5,000ポイント**がもらえます。ポイント還元率も高く、楽天市場でのお買い物がさらにお得になります。
+
+<a href="https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hsb/51da7d3b.1233d296.51da7d3c.f93f577d/?me_id=2101008&me_adv_id=167401&t=pict" border="0" style="margin:2px" alt="楽天カード" title="楽天カード"></a>
+
+[楽天カードの詳細・お申し込みはこちら](https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D)

@@ -111,3 +111,13 @@ JCBゴールドは、**海外旅行傷害保険が最高1億円**と業界最高
 ゴールドカードは年会費がかかりますが、特典・保険・還元率を考慮すると多くの場合でコスパが高くなります。特に**三井住友カード ゴールド（NL）**は年間100万円利用で実質無料になるため、カードを積極的に使う方には最もおすすめです。
 
 まずは自分の年間利用額と、どの特典を重視するかを整理した上でカードを選びましょう。
+
+---
+
+## 楽天カードへの申し込みはこちら（PR）
+
+楽天カードは**年会費永年無料**で、新規入会＆3回利用で**5,000ポイント**がもらえます。ポイント還元率も高く、楽天市場でのお買い物がさらにお得になります。
+
+<a href="https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D" target="_blank" rel="nofollow sponsored noopener" style="word-wrap:break-word;"><img src="https://hbb.afl.rakuten.co.jp/hsb/51da7d3b.1233d296.51da7d3c.f93f577d/?me_id=2101008&me_adv_id=167401&t=pict" border="0" style="margin:2px" alt="楽天カード" title="楽天カード"></a>
+
+[楽天カードの詳細・お申し込みはこちら](https://hb.afl.rakuten.co.jp/hsc/51da7d3b.1233d296.51da7d3c.f93f577d/?link_type=pict&ut=eyJwYWdlIjoic2hvcCIsInR5cGUiOiJwaWN0IiwiY29sIjoxLCJjYXQiOjEsImJhbiI6MTY3NDAxLCJhbXAiOmZhbHNlfQ%3D%3D)
